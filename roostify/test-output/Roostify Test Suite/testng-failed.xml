@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Roostify Test Suite]">
+  <listeners>
+    <listener class-name="com.kroakyhub.testfrog.customlistener.CustomITestListener"/>
+  </listeners>
+  <test name="Sanity Tests(failed)">
+    <classes>
+      <class name="com.infrrd.roostify.testcase.HomePageTestCase">
+        <methods>
+          <include name="tearDown"/>
+          <include name="clearResponse"/>
+          <include name="driverSetup"/>
+          <include name="testSetup"/>
+          <include name="validateOptionsForPurchase"/>
+        </methods>
+      </class> <!-- com.infrrd.roostify.testcase.HomePageTestCase -->
+    </classes>
+  </test> <!-- Sanity Tests(failed) -->
+</suite> <!-- Failed suite [Roostify Test Suite] -->

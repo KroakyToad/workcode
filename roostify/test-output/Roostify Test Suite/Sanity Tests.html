@@ -1,0 +1,128 @@
+<html>
+<head>
+<title>TestNG:  Sanity Tests</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Sanity Tests</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>2/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Oct 12 19:18:23 IST 2017</td>
+</tr>
+<tr><td>Total time:</td><td>14 seconds (14884 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.infrrd.roostify.testcase.HomePageTestCase.validateOptionsForPurchase()'><b>validateOptionsForPurchase</b><br>Test class: com.infrrd.roostify.testcase.HomePageTestCase<br>Test method: Validating presence of relevant fields for purchase <br/>
+<a href="#Output-1591916281" onClick='toggleBox("Output-1591916281", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1591916281" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1591916281">
+Starting test: Validating presence of relevant fields for purchase <br/>
+Changed value of element: [[ChromeDriver: chrome on XP (0e9529d6ea449369b172a37fdd980749)] -> xpath: //*[@aria-label ='Purchase Price']]<br/>
+Changed value of element: [[ChromeDriver: chrome on XP (0e9529d6ea449369b172a37fdd980749)] -> xpath: //*[@aria-label='Where is the property?']]<br/>
+Clicked on element: [[ChromeDriver: chrome on XP (0e9529d6ea449369b172a37fdd980749)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]<br/>
+Clicked on element: [[ChromeDriver: chrome on XP (0e9529d6ea449369b172a37fdd980749)] -> xpath: //*[@class='sb-advance-wrapper']]<br/>
+Clicked on element: [[ChromeDriver: chrome on XP (0e9529d6ea449369b172a37fdd980749)] -> xpath: //*[@for ='first_time_home_buyer']]<br/>
+Clicked on element: [[ChromeDriver: chrome on XP (0e9529d6ea449369b172a37fdd980749)] -> xpath: //*[@for ='military_service']]<br/>
+Changed value of element: [[ChromeDriver: chrome on XP (0e9529d6ea449369b172a37fdd980749)] -> xpath: //*[@aria-label='Monthly HOA Fees']]<br/>
+Clicked on element: [[ChromeDriver: chrome on XP (0e9529d6ea449369b172a37fdd980749)] -> xpath: //button[contains(text(),'Get My options')]]<br/>
+File path: C:\Users\E6430\Desktop\GitHub\roostify\src\test\resources\screenshots\12-10-2017_19-18-33-validateOptionsForPurchase.png<br/>
+<a href="C:\Users\E6430\Desktop\GitHub\roostify\src\test\resources\screenshots\12-10-2017_19-18-33-validateOptionsForPurchase.png"><img src="file:///C:\Users\E6430\Desktop\GitHub\roostify\src\test\resources\screenshots\12-10-2017_19-18-33-validateOptionsForPurchase.png" alt=""height='100' width='100'/> <br /><br/>
+Capturing image: C:\Users\E6430\Desktop\GitHub\roostify\src\test\resources\screenshots\12-10-2017_19-18-33-validateOptionsForPurchase.png<br/>
+Validating presence of relevant fields for purchase -- Test passed
+<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>com.infrrd.roostify.testcase.HomePageTestCase@48f2bd5b</td></tr>
+<tr>
+<td title='com.infrrd.roostify.testcase.HomePageTestCase.validateOptionsForRefinance()'><b>validateOptionsForRefinance</b><br>Test class: com.infrrd.roostify.testcase.HomePageTestCase<br>Test method: Validating presence of relevant fields for refinance <br/>
+<a href="#Output-281421502" onClick='toggleBox("Output-281421502", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-281421502" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-281421502">
+Starting test: Validating presence of relevant fields for refinance <br/>
+Clicked on element: [[[[ChromeDriver: chrome on XP (0e9529d6ea449369b172a37fdd980749)] -> xpath: //*[@aria-label='Purpose of Loan']]] -> xpath: .//option[@value = "refi"]]<br/>
+Changed value of element: [[ChromeDriver: chrome on XP (0e9529d6ea449369b172a37fdd980749)] -> xpath: //*[@aria-label='Current Mortgage Balance']]<br/>
+Changed value of element: [[ChromeDriver: chrome on XP (0e9529d6ea449369b172a37fdd980749)] -> xpath: //*[@aria-label='Current Property Value']]<br/>
+Changed value of element: [[ChromeDriver: chrome on XP (0e9529d6ea449369b172a37fdd980749)] -> xpath: //*[@aria-label='Where is the property?']]<br/>
+Clicked on element: [[ChromeDriver: chrome on XP (0e9529d6ea449369b172a37fdd980749)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]<br/>
+Clicked on element: [[ChromeDriver: chrome on XP (0e9529d6ea449369b172a37fdd980749)] -> xpath: //*[@class='sb-advance-wrapper']]<br/>
+Clicked on element: [[ChromeDriver: chrome on XP (0e9529d6ea449369b172a37fdd980749)] -> xpath: //*[@for ='military_service']]<br/>
+File path: C:\Users\E6430\Desktop\GitHub\roostify\src\test\resources\screenshots\12-10-2017_19-18-37-validateOptionsForRefinance.png<br/>
+<a href="C:\Users\E6430\Desktop\GitHub\roostify\src\test\resources\screenshots\12-10-2017_19-18-37-validateOptionsForRefinance.png"><img src="file:///C:\Users\E6430\Desktop\GitHub\roostify\src\test\resources\screenshots\12-10-2017_19-18-37-validateOptionsForRefinance.png" alt=""height='100' width='100'/> <br /><br/>
+Capturing image: C:\Users\E6430\Desktop\GitHub\roostify\src\test\resources\screenshots\12-10-2017_19-18-37-validateOptionsForRefinance.png<br/>
+Validating presence of relevant fields for refinance -- Test passed
+<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>com.infrrd.roostify.testcase.HomePageTestCase@48f2bd5b</td></tr>
+</table><p>
+</body>
+</html>
