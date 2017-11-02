@@ -45,7 +45,7 @@
   <dependencies>
     <dependency>
 			<groupId>com.kroakyhub</groupId>
-			<artifactId>testfrog</artifactId>
+			<artifactId>testfrogforapi</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
