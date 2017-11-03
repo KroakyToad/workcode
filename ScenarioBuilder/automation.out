@@ -561,3 +561,11 @@ Session ID: 6c2cc20f-6aac-4a57-bc2d-cefd9cd2243e
 03-11-2017 14:14:48 ERROR - Validating presence of relevant fields for purchase -- Test failed
 
 03-11-2017 14:14:48 INFO  - Test suite has has finished
+03-11-2017 17:23:44 INFO  - Test suite has started
+03-11-2017 17:23:55 INFO  - Starting test: Validating presence of relevant fields for purchase 
+03-11-2017 17:23:59 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (c163958454dec49795e0ee2b6180dca3)] -> xpath: //*[@aria-label ='Purchase Price']]
+03-11-2017 17:23:59 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (c163958454dec49795e0ee2b6180dca3)] -> xpath: //*[@aria-label='Where is the property?']]
+03-11-2017 17:24:01 INFO  - Capturing image: C:\Users\admin\Desktop\GitHub\workcode\ScenarioBuilder\src\test\resources\screenshots\03-11-2017_17-24-01-validateOptionsForPurchase.png
+03-11-2017 17:24:01 ERROR - Validating presence of relevant fields for purchase -- Test failed
+
+03-11-2017 17:24:02 INFO  - Test suite has has finished

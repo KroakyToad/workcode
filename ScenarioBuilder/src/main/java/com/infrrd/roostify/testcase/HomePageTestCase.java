@@ -56,6 +56,7 @@ public class HomePageTestCase extends BaseTest {
 	public void validateOptionsForRefinanceCashout(){
 		HomePagePageLibrary homePagePageLibrary = new HomePagePageLibrary(getDriver());
 		response =  homePagePageLibrary.addUserInputForRefinanceCashOut();
+		System.out.println("print from nishant");
 		Assert.assertEquals(response.contains("Success"), true);
 	}
 
