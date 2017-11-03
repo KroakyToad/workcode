@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Test suite has started]]>
+    </line>
+    <line>
+      <![CDATA[Starting test: Testcase to create and update a task]]>
+    </line>
+    <line>
+      <![CDATA[Testcase to create and update a task-- Test passed
+]]>
+    </line>
+    <line>
+      <![CDATA[Starting test: Testcase to display all tasks]]>
+    </line>
+    <line>
+      <![CDATA[Testcase to display all tasks-- Test passed
+]]>
+    </line>
+    <line>
+      <![CDATA[Starting test: Testcase to retreive all accounts]]>
+    </line>
+    <line>
+      <![CDATA[Testcase to retreive all accounts-- Test passed
+]]>
+    </line>
+  </reporter-output>
+  <suite name="Roostify API Suite" duration-ms="25749" started-at="2017-11-03T06:58:26Z" finished-at="2017-11-03T06:58:52Z">
+    <groups>
+    </groups>
+    <test name="Sanity Tests" duration-ms="25749" started-at="2017-11-03T06:58:26Z" finished-at="2017-11-03T06:58:52Z">
+      <class name="com.infrrd.roostifyapitest.testcase.QaAPI">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.infrrd.roostifyapitest.testcase.QaAPI@1534f01b]" name="setup" is-config="true" duration-ms="5124" started-at="2017-11-03T12:28:26Z" finished-at="2017-11-03T12:28:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="creating_and_update_a_task()[pri:0, instance:com.infrrd.roostifyapitest.testcase.QaAPI@1534f01b]" name="creating_and_update_a_task" duration-ms="13987" started-at="2017-11-03T12:28:31Z" description="Testcase to create and update a task" finished-at="2017-11-03T12:28:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Starting test: Testcase to create and update a task]]>
+            </line>
+            <line>
+              <![CDATA[Testcase to create and update a task-- Test passed
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- creating_and_update_a_task -->
+        <test-method status="PASS" signature="display_all_tasks()[pri:0, instance:com.infrrd.roostifyapitest.testcase.QaAPI@1534f01b]" name="display_all_tasks" duration-ms="4026" started-at="2017-11-03T12:28:45Z" description="Testcase to display all tasks" finished-at="2017-11-03T12:28:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Starting test: Testcase to display all tasks]]>
+            </line>
+            <line>
+              <![CDATA[Testcase to display all tasks-- Test passed
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- display_all_tasks -->
+        <test-method status="PASS" signature="retrieving_accounts()[pri:0, instance:com.infrrd.roostifyapitest.testcase.QaAPI@1534f01b]" name="retrieving_accounts" duration-ms="2177" started-at="2017-11-03T12:28:50Z" description="Testcase to retreive all accounts" finished-at="2017-11-03T12:28:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Starting test: Testcase to retreive all accounts]]>
+            </line>
+            <line>
+              <![CDATA[Testcase to retreive all accounts-- Test passed
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- retrieving_accounts -->
+      </class> <!-- com.infrrd.roostifyapitest.testcase.QaAPI -->
+    </test> <!-- Sanity Tests -->
+  </suite> <!-- Roostify API Suite -->
+</testng-results>

@@ -3,6 +3,8 @@ package com.infrrd.roostifyapitest.testcase;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
+
+import com.infrrd.roostifyapitest.common.FilePropertyHandler;
 import com.infrrd.roostifyapitest.pojocollection.CreatingATaskPOJO;
 import com.infrrd.roostifyapitest.pojocollection.UpdateATaskPOJO;
 import com.kroakyhub.testfrog.base.BaseTest;
@@ -66,7 +68,7 @@ public class QaAPI extends BaseTest {
 
 		endPoint = "/tasks";
 
-		jsonFilePath = "\\src\\main\\resources\\Creating_a_task.json";
+		jsonFilePath = FilePropertyHandler.getProperty( "application", "jsonPath" ).get()+"/Creating_a_task.json";
 
 		response = post(CreatingATaskPOJO.class);
 
@@ -80,7 +82,7 @@ public class QaAPI extends BaseTest {
 		
 		endPoint = "/tasks/"+update_id;
 		
-		jsonFilePath = "\\src\\main\\resources\\update_a_task.json";
+		jsonFilePath = FilePropertyHandler.getProperty( "application", "jsonPath" ).get()+"/update_a_task.json";
 		
 		response = patch(UpdateATaskPOJO.class);
 		

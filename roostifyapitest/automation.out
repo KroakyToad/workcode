@@ -43,3 +43,24 @@
 02-11-2017 21:06:49 INFO  - Testcase to retreive all accounts-- Test passed
 
 02-11-2017 21:06:49 INFO  - Test suite has has finished
+03-11-2017 11:30:47 INFO  - Starting test: Testcase to create and update a task
+03-11-2017 11:30:53 INFO  - Testcase to create and update a task-- Test passed
+
+03-11-2017 11:30:53 INFO  - Starting test: Testcase to display all tasks
+03-11-2017 11:30:55 INFO  - Testcase to display all tasks-- Test passed
+
+03-11-2017 11:30:55 INFO  - Starting test: Testcase to retreive all accounts
+03-11-2017 11:30:57 INFO  - Testcase to retreive all accounts-- Test passed
+
+03-11-2017 11:30:57 INFO  - Test suite has has finished
+03-11-2017 12:28:26 INFO  - Test suite has started
+03-11-2017 12:28:31 INFO  - Starting test: Testcase to create and update a task
+03-11-2017 12:28:45 INFO  - Testcase to create and update a task-- Test passed
+
+03-11-2017 12:28:45 INFO  - Starting test: Testcase to display all tasks
+03-11-2017 12:28:50 INFO  - Testcase to display all tasks-- Test passed
+
+03-11-2017 12:28:50 INFO  - Starting test: Testcase to retreive all accounts
+03-11-2017 12:28:52 INFO  - Testcase to retreive all accounts-- Test passed
+
+03-11-2017 12:28:57 INFO  - Test suite has has finished

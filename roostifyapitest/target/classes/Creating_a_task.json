@@ -1,0 +1,15 @@
+{
+  "loan_application_id": "6657144636962928",
+  "reference_id": "1344",
+  "name": "Task Name",
+  "assigned_role": "lender",
+  "notify_assignee_immediately": "true",
+  "release_automatically": "true",
+  "restricted": "false",
+  "description": "Title of Task",
+  "completed_at": "",
+  "due_at": "",
+  "priority": 0,
+  "instructions": "Please upload the Foo PDF",
+  "extension_type": "approval"
+}
