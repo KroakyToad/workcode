@@ -1,0 +1,487 @@
+24-10-2017 17:19:52 INFO  - Starting test: Validating Get My Options is not enabled if madatory data is not filled
+24-10-2017 17:19:52 INFO  - Validating Get My Options is not enabled if madatory data is not filled-- Test skipped
+
+24-10-2017 17:19:52 INFO  - Starting test: Validating other optimizations section
+24-10-2017 17:19:53 INFO  - Validating other optimizations section-- Test skipped
+
+24-10-2017 17:19:53 INFO  - Starting test: Validating Zip code error block
+24-10-2017 17:19:53 INFO  - Validating Zip code error block-- Test skipped
+
+24-10-2017 17:19:53 INFO  - Starting test: Validate zip code look up container
+24-10-2017 17:19:53 INFO  - Validate zip code look up container-- Test skipped
+
+24-10-2017 17:19:53 INFO  - Starting test: Validating Lead form upon clicking get this loan button 
+24-10-2017 17:19:53 INFO  - Validating Lead form upon clicking get this loan button -- Test skipped
+
+24-10-2017 17:19:53 INFO  - Test suite has has finished
+24-10-2017 17:20:14 INFO  - Starting test: Validating Get My Options is not enabled if madatory data is not filled
+24-10-2017 17:20:25 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+24-10-2017 17:20:25 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\ScenarioBuilder\src\test\resources\screenshots\24-10-2017_17-20-25-checkEnablingOfGetMyOptionsButton.png
+24-10-2017 17:20:25 ERROR - Validating Get My Options is not enabled if madatory data is not filled-- Test failed
+
+24-10-2017 17:20:26 INFO  - Starting test: Validating other optimizations section
+24-10-2017 17:20:27 INFO  - Changed value of element: [[FirefoxDriver: firefox on XP (435db915-6c2e-4094-b08d-73ca073291b5)] -> xpath: //*[@aria-label ='Purchase Price']]
+24-10-2017 17:20:27 INFO  - Changed value of element: [[FirefoxDriver: firefox on XP (435db915-6c2e-4094-b08d-73ca073291b5)] -> xpath: //*[@aria-label='Where is the property?']]
+24-10-2017 17:20:29 INFO  - Clicked on element: [[FirefoxDriver: firefox on XP (435db915-6c2e-4094-b08d-73ca073291b5)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+24-10-2017 17:20:29 INFO  - Clicked on element: [[FirefoxDriver: firefox on XP (435db915-6c2e-4094-b08d-73ca073291b5)] -> xpath: //*[@class='sb-advance-wrapper']]
+24-10-2017 17:20:30 INFO  - Clicked on element: [[FirefoxDriver: firefox on XP (435db915-6c2e-4094-b08d-73ca073291b5)] -> xpath: //*[@for ='first_time_home_buyer']]
+24-10-2017 17:20:30 INFO  - Clicked on element: [[FirefoxDriver: firefox on XP (435db915-6c2e-4094-b08d-73ca073291b5)] -> xpath: //*[@for ='military_service']]
+24-10-2017 17:20:30 INFO  - Changed value of element: [[FirefoxDriver: firefox on XP (435db915-6c2e-4094-b08d-73ca073291b5)] -> xpath: //*[@aria-label='Monthly HOA Fees']]
+24-10-2017 17:20:31 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_101'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\E6430\AppData\Local\Temp\rust_mozprofile.RY0EeTp9Ozqy, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, moz:headless=false, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=10.0, moz:processID=1084, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 435db915-6c2e-4094-b08d-73ca073291b5
+*** Element info: {Using=xpath, value=//button[contains(text(),'Get My options')]}
+24-10-2017 17:20:31 INFO  - Starting test: Validating Zip code error block
+24-10-2017 17:20:31 INFO  - Validating Zip code error block-- Test skipped
+
+24-10-2017 17:20:31 INFO  - Starting test: Validate zip code look up container
+24-10-2017 17:20:31 INFO  - Validate zip code look up container-- Test skipped
+
+24-10-2017 17:20:31 INFO  - Starting test: Validating Lead form upon clicking get this loan button 
+24-10-2017 17:20:31 INFO  - Validating Lead form upon clicking get this loan button -- Test skipped
+
+24-10-2017 17:20:31 INFO  - Test suite has has finished
+24-10-2017 17:48:09 INFO  - Starting test: Validating Get My Options is not enabled if madatory data is not filled
+24-10-2017 17:48:09 INFO  - Validating Get My Options is not enabled if madatory data is not filled-- Test skipped
+
+24-10-2017 17:48:09 INFO  - Starting test: Validating other optimizations section
+24-10-2017 17:48:10 INFO  - Validating other optimizations section-- Test skipped
+
+24-10-2017 17:48:10 INFO  - Starting test: Validating Zip code error block
+24-10-2017 17:48:10 INFO  - Validating Zip code error block-- Test skipped
+
+24-10-2017 17:48:10 INFO  - Starting test: Validate zip code look up container
+24-10-2017 17:48:10 INFO  - Validate zip code look up container-- Test skipped
+
+24-10-2017 17:48:10 INFO  - Starting test: Validating Lead form upon clicking get this loan button 
+24-10-2017 17:48:10 INFO  - Validating Lead form upon clicking get this loan button -- Test skipped
+
+24-10-2017 17:48:10 INFO  - Test suite has has finished
+24-10-2017 17:49:34 INFO  - Starting test: Validating Get My Options is not enabled if madatory data is not filled
+24-10-2017 17:49:45 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+24-10-2017 17:49:45 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\ScenarioBuilder\src\test\resources\screenshots\24-10-2017_17-49-45-checkEnablingOfGetMyOptionsButton.png
+24-10-2017 17:49:45 ERROR - Validating Get My Options is not enabled if madatory data is not filled-- Test failed
+
+24-10-2017 17:49:46 INFO  - Starting test: Validating other optimizations section
+24-10-2017 17:49:47 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (0fde3ff2daddf171c1904fdf0d8f94cb)] -> xpath: //*[@aria-label ='Purchase Price']]
+24-10-2017 17:49:48 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (0fde3ff2daddf171c1904fdf0d8f94cb)] -> xpath: //*[@aria-label='Where is the property?']]
+24-10-2017 17:49:48 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (0fde3ff2daddf171c1904fdf0d8f94cb)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+24-10-2017 17:49:48 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (0fde3ff2daddf171c1904fdf0d8f94cb)] -> xpath: //*[@class='sb-advance-wrapper']]
+24-10-2017 17:49:49 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (0fde3ff2daddf171c1904fdf0d8f94cb)] -> xpath: //*[@for ='first_time_home_buyer']]
+24-10-2017 17:49:49 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (0fde3ff2daddf171c1904fdf0d8f94cb)] -> xpath: //*[@for ='military_service']]
+24-10-2017 17:49:49 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (0fde3ff2daddf171c1904fdf0d8f94cb)] -> xpath: //*[@aria-label='Monthly HOA Fees']]
+24-10-2017 17:50:00 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+24-10-2017 17:50:00 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\ScenarioBuilder\src\test\resources\screenshots\24-10-2017_17-50-00-validateOtherOptimizations.png
+24-10-2017 17:50:00 ERROR - Validating other optimizations section-- Test failed
+
+24-10-2017 17:50:01 INFO  - Starting test: Validating Zip code error block
+24-10-2017 17:50:02 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (0fde3ff2daddf171c1904fdf0d8f94cb)] -> xpath: //*[@aria-label='Where is the property?']]
+24-10-2017 17:50:03 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\ScenarioBuilder\src\test\resources\screenshots\24-10-2017_17-50-03-validateZipCodeError.png
+24-10-2017 17:50:03 INFO  - Validating Zip code error block-- Test passed
+
+24-10-2017 17:50:03 INFO  - Starting test: Validate zip code look up container
+24-10-2017 17:50:04 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (0fde3ff2daddf171c1904fdf0d8f94cb)] -> xpath: //*[@aria-label='Where is the property?']]
+24-10-2017 17:50:04 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (0fde3ff2daddf171c1904fdf0d8f94cb)] -> xpath: //*[@aria-label='Where is the property?']]
+24-10-2017 17:50:05 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (0fde3ff2daddf171c1904fdf0d8f94cb)] -> xpath: //*[@aria-label='Where is the property?']]
+24-10-2017 17:50:05 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (0fde3ff2daddf171c1904fdf0d8f94cb)] -> xpath: //*[@aria-label='Where is the property?']]
+24-10-2017 17:50:06 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (0fde3ff2daddf171c1904fdf0d8f94cb)] -> xpath: //*[@aria-label='Where is the property?']]
+24-10-2017 17:50:06 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (0fde3ff2daddf171c1904fdf0d8f94cb)] -> xpath: //*[@aria-label='Where is the property?']]
+24-10-2017 17:50:06 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\ScenarioBuilder\src\test\resources\screenshots\24-10-2017_17-50-06-validateZipCodeLookUp.png
+24-10-2017 17:50:06 INFO  - Validate zip code look up container-- Test passed
+
+24-10-2017 17:50:07 INFO  - Starting test: Validating Lead form upon clicking get this loan button 
+24-10-2017 17:50:08 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (0fde3ff2daddf171c1904fdf0d8f94cb)] -> xpath: //*[@aria-label ='Purchase Price']]
+24-10-2017 17:50:08 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (0fde3ff2daddf171c1904fdf0d8f94cb)] -> xpath: //*[@aria-label='Where is the property?']]
+24-10-2017 17:50:09 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (0fde3ff2daddf171c1904fdf0d8f94cb)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+24-10-2017 17:50:09 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (0fde3ff2daddf171c1904fdf0d8f94cb)] -> xpath: //*[@class='sb-advance-wrapper']]
+24-10-2017 17:50:10 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (0fde3ff2daddf171c1904fdf0d8f94cb)] -> xpath: //*[@for ='first_time_home_buyer']]
+24-10-2017 17:50:10 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (0fde3ff2daddf171c1904fdf0d8f94cb)] -> xpath: //*[@for ='military_service']]
+24-10-2017 17:50:10 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (0fde3ff2daddf171c1904fdf0d8f94cb)] -> xpath: //*[@aria-label='Monthly HOA Fees']]
+24-10-2017 17:50:20 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+24-10-2017 17:50:21 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\ScenarioBuilder\src\test\resources\screenshots\24-10-2017_17-50-20-validatingLeadForm.png
+24-10-2017 17:50:21 ERROR - Validating Lead form upon clicking get this loan button -- Test failed
+
+24-10-2017 17:50:22 INFO  - Test suite has has finished
+24-10-2017 17:53:03 INFO  - Starting test: Validating Get My Options is not enabled if madatory data is not filled
+24-10-2017 17:53:14 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+24-10-2017 17:53:15 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\ScenarioBuilder\src\test\resources\screenshots\24-10-2017_17-53-14-checkEnablingOfGetMyOptionsButton.png
+24-10-2017 17:53:15 ERROR - Validating Get My Options is not enabled if madatory data is not filled-- Test failed
+
+24-10-2017 17:53:15 INFO  - Starting test: Validating other optimizations section
+24-10-2017 17:53:16 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (dcab5599d9bb6faa89d0c965b3c34ae1)] -> xpath: //*[@aria-label ='Purchase Price']]
+24-10-2017 17:53:16 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (dcab5599d9bb6faa89d0c965b3c34ae1)] -> xpath: //*[@aria-label='Where is the property?']]
+24-10-2017 17:53:18 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (dcab5599d9bb6faa89d0c965b3c34ae1)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+24-10-2017 17:53:18 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (dcab5599d9bb6faa89d0c965b3c34ae1)] -> xpath: //*[@class='sb-advance-wrapper']]
+24-10-2017 17:53:18 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (dcab5599d9bb6faa89d0c965b3c34ae1)] -> xpath: //*[@for ='first_time_home_buyer']]
+24-10-2017 17:53:19 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (dcab5599d9bb6faa89d0c965b3c34ae1)] -> xpath: //*[@for ='military_service']]
+24-10-2017 17:53:19 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (dcab5599d9bb6faa89d0c965b3c34ae1)] -> xpath: //*[@aria-label='Monthly HOA Fees']]
+24-10-2017 17:53:29 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+24-10-2017 17:53:30 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\ScenarioBuilder\src\test\resources\screenshots\24-10-2017_17-53-29-validateOtherOptimizations.png
+24-10-2017 17:53:30 ERROR - Validating other optimizations section-- Test failed
+
+24-10-2017 17:53:30 INFO  - Starting test: Validating Zip code error block
+24-10-2017 17:53:31 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (dcab5599d9bb6faa89d0c965b3c34ae1)] -> xpath: //*[@aria-label='Where is the property?']]
+24-10-2017 17:53:32 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\ScenarioBuilder\src\test\resources\screenshots\24-10-2017_17-53-31-validateZipCodeError.png
+24-10-2017 17:53:32 INFO  - Validating Zip code error block-- Test passed
+
+24-10-2017 17:53:32 INFO  - Starting test: Validate zip code look up container
+24-10-2017 17:53:33 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (dcab5599d9bb6faa89d0c965b3c34ae1)] -> xpath: //*[@aria-label='Where is the property?']]
+24-10-2017 17:53:33 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (dcab5599d9bb6faa89d0c965b3c34ae1)] -> xpath: //*[@aria-label='Where is the property?']]
+24-10-2017 17:53:34 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (dcab5599d9bb6faa89d0c965b3c34ae1)] -> xpath: //*[@aria-label='Where is the property?']]
+24-10-2017 17:53:34 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (dcab5599d9bb6faa89d0c965b3c34ae1)] -> xpath: //*[@aria-label='Where is the property?']]
+24-10-2017 17:53:34 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (dcab5599d9bb6faa89d0c965b3c34ae1)] -> xpath: //*[@aria-label='Where is the property?']]
+24-10-2017 17:53:34 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (dcab5599d9bb6faa89d0c965b3c34ae1)] -> xpath: //*[@aria-label='Where is the property?']]
+24-10-2017 17:53:35 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\ScenarioBuilder\src\test\resources\screenshots\24-10-2017_17-53-35-validateZipCodeLookUp.png
+24-10-2017 17:53:35 INFO  - Validate zip code look up container-- Test passed
+
+24-10-2017 17:53:35 INFO  - Starting test: Validating Lead form upon clicking get this loan button 
+24-10-2017 17:53:36 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (dcab5599d9bb6faa89d0c965b3c34ae1)] -> xpath: //*[@aria-label ='Purchase Price']]
+24-10-2017 17:53:36 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (dcab5599d9bb6faa89d0c965b3c34ae1)] -> xpath: //*[@aria-label='Where is the property?']]
+24-10-2017 17:53:37 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (dcab5599d9bb6faa89d0c965b3c34ae1)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+24-10-2017 17:53:37 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (dcab5599d9bb6faa89d0c965b3c34ae1)] -> xpath: //*[@class='sb-advance-wrapper']]
+24-10-2017 17:53:38 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (dcab5599d9bb6faa89d0c965b3c34ae1)] -> xpath: //*[@for ='first_time_home_buyer']]
+24-10-2017 17:53:38 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (dcab5599d9bb6faa89d0c965b3c34ae1)] -> xpath: //*[@for ='military_service']]
+24-10-2017 17:53:38 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (dcab5599d9bb6faa89d0c965b3c34ae1)] -> xpath: //*[@aria-label='Monthly HOA Fees']]
+24-10-2017 17:53:49 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+24-10-2017 17:53:49 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\ScenarioBuilder\src\test\resources\screenshots\24-10-2017_17-53-49-validatingLeadForm.png
+24-10-2017 17:53:49 ERROR - Validating Lead form upon clicking get this loan button -- Test failed
+
+24-10-2017 17:53:50 INFO  - Test suite has has finished
+25-10-2017 15:11:31 INFO  - Test suite has started
+25-10-2017 15:11:44 INFO  - Starting test: Validating Get My Options is not enabled if madatory data is not filled
+25-10-2017 15:11:44 INFO  - Validating Get My Options is not enabled if madatory data is not filled-- Test skipped
+
+25-10-2017 15:11:44 INFO  - Starting test: Validating other optimizations section
+25-10-2017 15:11:45 INFO  - Validating other optimizations section-- Test skipped
+
+25-10-2017 15:11:45 INFO  - Starting test: Validating Zip code error block
+25-10-2017 15:11:45 INFO  - Validating Zip code error block-- Test skipped
+
+25-10-2017 15:11:45 INFO  - Starting test: Validate zip code look up container
+25-10-2017 15:11:45 INFO  - Validate zip code look up container-- Test skipped
+
+25-10-2017 15:11:45 INFO  - Starting test: Validating Lead form upon clicking get this loan button 
+25-10-2017 15:11:45 INFO  - Validating Lead form upon clicking get this loan button -- Test skipped
+
+25-10-2017 15:11:45 INFO  - Test suite has has finished
+25-10-2017 15:13:10 INFO  - Test suite has started
+25-10-2017 15:13:15 INFO  - Starting test: Validating Get My Options is not enabled if madatory data is not filled
+25-10-2017 16:13:26 INFO  - Test suite has started
+25-10-2017 16:13:38 INFO  - Starting test: Validating Get My Options is not enabled if madatory data is not filled
+25-10-2017 16:13:48 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+25-10-2017 16:13:48 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\ScenarioBuilder\src\test\resources\screenshots\25-10-2017_16-13-48-checkEnablingOfGetMyOptionsButton.png
+25-10-2017 16:13:48 ERROR - Validating Get My Options is not enabled if madatory data is not filled-- Test failed
+
+25-10-2017 16:13:49 INFO  - Starting test: Validating other optimizations section
+25-10-2017 16:13:59 INFO  - Not able to locate element By.xpath: //*[@aria-label='Purpose of Loan'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Purpose of Loan'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:14:09 INFO  - Not able to locate element By.xpath: //*[@aria-label='Purpose of Loan'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Purpose of Loan'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:14:20 INFO  - Not able to locate element By.xpath: //*[@aria-label='Purpose of Loan'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Purpose of Loan'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:14:30 INFO  - Not able to locate element By.xpath: //*[@aria-label ='Purchase Price'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label ='Purchase Price'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:14:30 INFO  - Changed value of element: [[FirefoxDriver: firefox on XP (5e3bd5c0-02a1-4fdd-a02e-9c48ff4772ba)] -> xpath: //*[@aria-label ='Purchase Price']]
+25-10-2017 16:14:41 INFO  - Not able to locate element By.xpath: //*[@aria-label='Where is the property?'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Where is the property?'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:14:41 INFO  - Changed value of element: [[FirefoxDriver: firefox on XP (5e3bd5c0-02a1-4fdd-a02e-9c48ff4772ba)] -> xpath: //*[@aria-label='Where is the property?']]
+25-10-2017 16:14:51 INFO  - Not able to locate element By.xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:14:51 INFO  - Clicked on element: [[FirefoxDriver: firefox on XP (5e3bd5c0-02a1-4fdd-a02e-9c48ff4772ba)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+25-10-2017 16:15:02 INFO  - Not able to locate element By.xpath: //*[@class='sb-advance-wrapper'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@class='sb-advance-wrapper'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:15:02 INFO  - Clicked on element: [[FirefoxDriver: firefox on XP (5e3bd5c0-02a1-4fdd-a02e-9c48ff4772ba)] -> xpath: //*[@class='sb-advance-wrapper']]
+25-10-2017 16:15:12 INFO  - Not able to locate element By.xpath: //*[@aria-label ='Property Type'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label ='Property Type'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:15:23 INFO  - Not able to locate element By.xpath: //*[@aria-label ='Property Type'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label ='Property Type'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:15:33 INFO  - Not able to locate element By.xpath: //*[@aria-label ='Property Type'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label ='Property Type'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:15:43 INFO  - Not able to locate element By.xpath: //*[@aria-label='Property Use'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Property Use'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:15:53 INFO  - Not able to locate element By.xpath: //*[@aria-label='Property Use'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Property Use'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:16:04 INFO  - Not able to locate element By.xpath: //*[@aria-label='Property Use'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Property Use'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:16:14 INFO  - Not able to locate element By.xpath: //*[@for ='first_time_home_buyer'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@for ='first_time_home_buyer'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:16:15 INFO  - Clicked on element: [[FirefoxDriver: firefox on XP (5e3bd5c0-02a1-4fdd-a02e-9c48ff4772ba)] -> xpath: //*[@for ='first_time_home_buyer']]
+25-10-2017 16:16:25 INFO  - Not able to locate element By.xpath: //*[@for ='military_service'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@for ='military_service'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:16:25 INFO  - Clicked on element: [[FirefoxDriver: firefox on XP (5e3bd5c0-02a1-4fdd-a02e-9c48ff4772ba)] -> xpath: //*[@for ='military_service']]
+25-10-2017 16:16:35 INFO  - Not able to locate element By.xpath: //*[@aria-label='Monthly HOA Fees'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Monthly HOA Fees'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:16:35 INFO  - Changed value of element: [[FirefoxDriver: firefox on XP (5e3bd5c0-02a1-4fdd-a02e-9c48ff4772ba)] -> xpath: //*[@aria-label='Monthly HOA Fees']]
+25-10-2017 16:16:45 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+25-10-2017 16:16:46 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\ScenarioBuilder\src\test\resources\screenshots\25-10-2017_16-16-45-validateOtherOptimizations.png
+25-10-2017 16:16:46 ERROR - Validating other optimizations section-- Test failed
+
+25-10-2017 16:16:46 INFO  - Starting test: Validating Zip code error block
+25-10-2017 16:16:57 INFO  - Not able to locate element By.xpath: //*[@aria-label='Where is the property?'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Where is the property?'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:16:57 INFO  - Changed value of element: [[FirefoxDriver: firefox on XP (5e3bd5c0-02a1-4fdd-a02e-9c48ff4772ba)] -> xpath: //*[@aria-label='Where is the property?']]
+25-10-2017 16:17:07 INFO  - Not able to locate element By.xpath: //*[@class='sb-zipcode-error-block'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@class='sb-zipcode-error-block'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:17:07 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\ScenarioBuilder\src\test\resources\screenshots\25-10-2017_16-17-07-validateZipCodeError.png
+25-10-2017 16:17:07 ERROR - Validating Zip code error block-- Test failed
+
+25-10-2017 16:17:08 INFO  - Starting test: Validate zip code look up container
+25-10-2017 16:17:18 INFO  - Not able to locate element By.xpath: //*[@aria-label='Where is the property?'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Where is the property?'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:17:18 INFO  - Changed value of element: [[FirefoxDriver: firefox on XP (5e3bd5c0-02a1-4fdd-a02e-9c48ff4772ba)] -> xpath: //*[@aria-label='Where is the property?']]
+25-10-2017 16:17:28 INFO  - Not able to locate element By.xpath: //*[@aria-label='Where is the property?'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Where is the property?'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:17:28 INFO  - Changed value of element: [[FirefoxDriver: firefox on XP (5e3bd5c0-02a1-4fdd-a02e-9c48ff4772ba)] -> xpath: //*[@aria-label='Where is the property?']]
+25-10-2017 16:17:39 INFO  - Not able to locate element By.xpath: //*[@aria-label='Where is the property?'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Where is the property?'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:17:39 INFO  - Changed value of element: [[FirefoxDriver: firefox on XP (5e3bd5c0-02a1-4fdd-a02e-9c48ff4772ba)] -> xpath: //*[@aria-label='Where is the property?']]
+25-10-2017 16:17:50 INFO  - Not able to locate element By.xpath: //*[@aria-label='Where is the property?'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Where is the property?'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:17:50 INFO  - Changed value of element: [[FirefoxDriver: firefox on XP (5e3bd5c0-02a1-4fdd-a02e-9c48ff4772ba)] -> xpath: //*[@aria-label='Where is the property?']]
+25-10-2017 16:18:00 INFO  - Not able to locate element By.xpath: //*[@aria-label='Where is the property?'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Where is the property?'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:18:00 INFO  - Changed value of element: [[FirefoxDriver: firefox on XP (5e3bd5c0-02a1-4fdd-a02e-9c48ff4772ba)] -> xpath: //*[@aria-label='Where is the property?']]
+25-10-2017 16:18:10 INFO  - Not able to locate element By.xpath: //*[@aria-label='Where is the property?'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Where is the property?'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:18:10 INFO  - Changed value of element: [[FirefoxDriver: firefox on XP (5e3bd5c0-02a1-4fdd-a02e-9c48ff4772ba)] -> xpath: //*[@aria-label='Where is the property?']]
+25-10-2017 16:18:21 INFO  - Not able to locate element By.xpath: //*[@class = 'sb-zipcode-wrapper'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@class = 'sb-zipcode-wrapper'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:18:21 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\ScenarioBuilder\src\test\resources\screenshots\25-10-2017_16-18-21-validateZipCodeLookUp.png
+25-10-2017 16:18:21 ERROR - Validate zip code look up container-- Test failed
+
+25-10-2017 16:18:22 INFO  - Starting test: Validating Lead form upon clicking get this loan button 
+25-10-2017 16:18:33 INFO  - Not able to locate element By.xpath: //*[@aria-label='Purpose of Loan'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Purpose of Loan'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:18:43 INFO  - Not able to locate element By.xpath: //*[@aria-label='Purpose of Loan'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Purpose of Loan'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:18:53 INFO  - Not able to locate element By.xpath: //*[@aria-label='Purpose of Loan'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Purpose of Loan'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:19:03 INFO  - Not able to locate element By.xpath: //*[@aria-label ='Purchase Price'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label ='Purchase Price'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:19:03 INFO  - Changed value of element: [[FirefoxDriver: firefox on XP (5e3bd5c0-02a1-4fdd-a02e-9c48ff4772ba)] -> xpath: //*[@aria-label ='Purchase Price']]
+25-10-2017 16:19:13 INFO  - Not able to locate element By.xpath: //*[@aria-label='Where is the property?'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Where is the property?'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:19:13 INFO  - Changed value of element: [[FirefoxDriver: firefox on XP (5e3bd5c0-02a1-4fdd-a02e-9c48ff4772ba)] -> xpath: //*[@aria-label='Where is the property?']]
+25-10-2017 16:19:24 INFO  - Not able to locate element By.xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:19:24 INFO  - Clicked on element: [[FirefoxDriver: firefox on XP (5e3bd5c0-02a1-4fdd-a02e-9c48ff4772ba)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+25-10-2017 16:19:34 INFO  - Not able to locate element By.xpath: //*[@class='sb-advance-wrapper'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@class='sb-advance-wrapper'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:19:35 INFO  - Clicked on element: [[FirefoxDriver: firefox on XP (5e3bd5c0-02a1-4fdd-a02e-9c48ff4772ba)] -> xpath: //*[@class='sb-advance-wrapper']]
+25-10-2017 16:19:45 INFO  - Not able to locate element By.xpath: //*[@aria-label ='Property Type'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label ='Property Type'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:19:55 INFO  - Not able to locate element By.xpath: //*[@aria-label ='Property Type'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label ='Property Type'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:20:05 INFO  - Not able to locate element By.xpath: //*[@aria-label ='Property Type'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label ='Property Type'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:20:16 INFO  - Not able to locate element By.xpath: //*[@aria-label='Property Use'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Property Use'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:20:26 INFO  - Not able to locate element By.xpath: //*[@aria-label='Property Use'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Property Use'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:20:36 INFO  - Not able to locate element By.xpath: //*[@aria-label='Property Use'] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@aria-label='Property Use'] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: com.sun.proxy.$Proxy7
+25-10-2017 16:21:31 INFO  - Test suite has started
+25-10-2017 16:21:39 INFO  - Starting test: Validating Get My Options is not enabled if madatory data is not filled
+25-10-2017 16:21:41 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-IEOF3HT', ip: '192.168.0.80', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\E6430\AppData\Local\Temp\rust_mozprofile.VQeHV1F7yYOJ, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, moz:headless=false, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=10.0, moz:processID=1676, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 6c2cc20f-6aac-4a57-bc2d-cefd9cd2243e
+*** Element info: {Using=xpath, value=//button[contains(text(),'Get My options')]}
+25-10-2017 16:21:42 INFO  - Validating other optimizations section-- Test skipped
+
+25-10-2017 16:21:42 INFO  - Validating Zip code error block-- Test skipped
+
+25-10-2017 16:21:42 INFO  - Validate zip code look up container-- Test skipped
+
+25-10-2017 16:21:42 INFO  - Validating Lead form upon clicking get this loan button -- Test skipped
+
+25-10-2017 16:21:42 INFO  - Test suite has has finished
+27-10-2017 15:39:02 INFO  - Test suite has started
+27-10-2017 15:39:10 INFO  - Starting test: Validating Get My Options is not enabled if madatory data is not filled
+27-10-2017 16:00:37 INFO  - Test suite has started
+27-10-2017 16:00:45 INFO  - Starting test: Validating Get My Options is not enabled if madatory data is not filled
+27-10-2017 16:00:57 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+27-10-2017 16:00:58 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\ScenarioBuilder\src\test\resources\screenshots\27-10-2017_16-00-57-checkEnablingOfGetMyOptionsButton.png
+27-10-2017 16:00:58 ERROR - Validating Get My Options is not enabled if madatory data is not filled-- Test failed
+
+27-10-2017 16:00:58 INFO  - Starting test: Validating other optimizations section
+27-10-2017 16:00:59 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (79dad0f418022e9137e96e78bd1deaf2)] -> xpath: //*[@aria-label ='Purchase Price']]
+27-10-2017 16:00:59 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (79dad0f418022e9137e96e78bd1deaf2)] -> xpath: //*[@aria-label='Where is the property?']]
+27-10-2017 16:01:01 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (79dad0f418022e9137e96e78bd1deaf2)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+27-10-2017 16:01:01 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (79dad0f418022e9137e96e78bd1deaf2)] -> xpath: //*[@class='sb-advance-wrapper']]
+27-10-2017 16:01:01 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (79dad0f418022e9137e96e78bd1deaf2)] -> xpath: //*[@for ='first_time_home_buyer']]
+27-10-2017 16:01:02 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (79dad0f418022e9137e96e78bd1deaf2)] -> xpath: //*[@for ='military_service']]
+27-10-2017 16:01:02 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (79dad0f418022e9137e96e78bd1deaf2)] -> xpath: //*[@aria-label='Monthly HOA Fees']]
+27-10-2017 16:01:12 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+27-10-2017 16:01:13 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\ScenarioBuilder\src\test\resources\screenshots\27-10-2017_16-01-12-validateOtherOptimizations.png
+27-10-2017 16:01:13 ERROR - Validating other optimizations section-- Test failed
+
+27-10-2017 16:01:13 INFO  - Starting test: Validating Zip code error block
+27-10-2017 16:01:14 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (79dad0f418022e9137e96e78bd1deaf2)] -> xpath: //*[@aria-label='Where is the property?']]
+27-10-2017 16:01:15 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\ScenarioBuilder\src\test\resources\screenshots\27-10-2017_16-01-15-validateZipCodeError.png
+27-10-2017 16:01:15 INFO  - Validating Zip code error block-- Test passed
+
+27-10-2017 16:01:16 INFO  - Starting test: Validate zip code look up container
+27-10-2017 16:01:17 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (79dad0f418022e9137e96e78bd1deaf2)] -> xpath: //*[@aria-label='Where is the property?']]
+27-10-2017 16:01:18 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (79dad0f418022e9137e96e78bd1deaf2)] -> xpath: //*[@aria-label='Where is the property?']]
+27-10-2017 16:01:18 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (79dad0f418022e9137e96e78bd1deaf2)] -> xpath: //*[@aria-label='Where is the property?']]
+27-10-2017 16:01:19 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (79dad0f418022e9137e96e78bd1deaf2)] -> xpath: //*[@aria-label='Where is the property?']]
+27-10-2017 16:01:19 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (79dad0f418022e9137e96e78bd1deaf2)] -> xpath: //*[@aria-label='Where is the property?']]
+27-10-2017 16:01:19 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (79dad0f418022e9137e96e78bd1deaf2)] -> xpath: //*[@aria-label='Where is the property?']]
+27-10-2017 16:01:20 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\ScenarioBuilder\src\test\resources\screenshots\27-10-2017_16-01-19-validateZipCodeLookUp.png
+27-10-2017 16:01:20 INFO  - Validate zip code look up container-- Test passed
+
+27-10-2017 16:01:20 INFO  - Starting test: Validating Lead form upon clicking get this loan button 
+27-10-2017 16:01:21 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (79dad0f418022e9137e96e78bd1deaf2)] -> xpath: //*[@aria-label ='Purchase Price']]
+27-10-2017 16:01:21 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (79dad0f418022e9137e96e78bd1deaf2)] -> xpath: //*[@aria-label='Where is the property?']]
+27-10-2017 16:01:22 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (79dad0f418022e9137e96e78bd1deaf2)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+27-10-2017 16:01:22 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (79dad0f418022e9137e96e78bd1deaf2)] -> xpath: //*[@class='sb-advance-wrapper']]
+27-10-2017 16:01:23 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (79dad0f418022e9137e96e78bd1deaf2)] -> xpath: //*[@for ='first_time_home_buyer']]
+27-10-2017 16:01:23 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (79dad0f418022e9137e96e78bd1deaf2)] -> xpath: //*[@for ='military_service']]
+27-10-2017 16:01:23 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (79dad0f418022e9137e96e78bd1deaf2)] -> xpath: //*[@aria-label='Monthly HOA Fees']]
+27-10-2017 16:01:34 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+27-10-2017 16:01:34 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\ScenarioBuilder\src\test\resources\screenshots\27-10-2017_16-01-34-validatingLeadForm.png
+27-10-2017 16:01:34 ERROR - Validating Lead form upon clicking get this loan button -- Test failed
+
+27-10-2017 16:01:35 INFO  - Test suite has has finished
+27-10-2017 16:02:44 INFO  - Test suite has started
+27-10-2017 16:02:51 INFO  - Starting test: Validating Get My Options is not enabled if madatory data is not filled
+27-10-2017 16:03:40 INFO  - Test suite has started
+27-10-2017 16:03:47 INFO  - Starting test: Validating presence of relevant fields for purchase 
+27-10-2017 16:03:49 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (5b77b301f392e5efc74b5a4360f98638)] -> xpath: //*[@aria-label ='Purchase Price']]
+27-10-2017 16:03:49 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (5b77b301f392e5efc74b5a4360f98638)] -> xpath: //*[@aria-label='Where is the property?']]
+27-10-2017 16:03:50 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (5b77b301f392e5efc74b5a4360f98638)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+27-10-2017 16:03:50 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (5b77b301f392e5efc74b5a4360f98638)] -> xpath: //*[@class='sb-advance-wrapper']]
+27-10-2017 16:03:51 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (5b77b301f392e5efc74b5a4360f98638)] -> xpath: //*[@for ='first_time_home_buyer']]
+27-10-2017 16:03:51 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (5b77b301f392e5efc74b5a4360f98638)] -> xpath: //*[@for ='military_service']]
+27-10-2017 16:03:51 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (5b77b301f392e5efc74b5a4360f98638)] -> xpath: //*[@aria-label='Monthly HOA Fees']]
+27-10-2017 16:04:01 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+27-10-2017 16:04:02 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\ScenarioBuilder\src\test\resources\screenshots\27-10-2017_16-04-01-validateOptionsForPurchase.png
+27-10-2017 16:04:02 ERROR - Validating presence of relevant fields for purchase -- Test failed
+
+27-10-2017 16:04:03 INFO  - Test suite has has finished
+27-10-2017 16:06:23 INFO  - Test suite has started
+27-10-2017 16:06:23 INFO  - Starting test: Validating graph legends
+27-10-2017 16:06:23 INFO  - Validating graph legends-- Test skipped
+
+27-10-2017 16:06:23 INFO  - Starting test: Validating presence of relevant fields for refinance cashout
+27-10-2017 16:06:23 INFO  - Validating presence of relevant fields for refinance cashout-- Test skipped
+
+27-10-2017 16:06:23 INFO  - Test suite has has finished
+27-10-2017 16:16:07 INFO  - Test suite has started
+27-10-2017 16:16:15 INFO  - Starting test: Validating presence of relevant fields for purchase 
+27-10-2017 16:16:17 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (4a1244a116b15280001217a36a1837a0)] -> xpath: //*[@aria-label ='Purchase Price']]
+27-10-2017 16:16:17 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (4a1244a116b15280001217a36a1837a0)] -> xpath: //*[@aria-label='Where is the property?']]
+27-10-2017 16:16:23 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (4a1244a116b15280001217a36a1837a0)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+27-10-2017 16:16:28 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (4a1244a116b15280001217a36a1837a0)] -> xpath: //*[@class='sb-advance-wrapper']]
+27-10-2017 16:16:34 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (4a1244a116b15280001217a36a1837a0)] -> xpath: //*[@for ='first_time_home_buyer']]
+27-10-2017 16:16:39 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (4a1244a116b15280001217a36a1837a0)] -> xpath: //*[@for ='military_service']]
+27-10-2017 16:16:39 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (4a1244a116b15280001217a36a1837a0)] -> xpath: //*[@aria-label='Monthly HOA Fees']]
+27-10-2017 16:16:49 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+27-10-2017 16:16:50 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\ScenarioBuilder\src\test\resources\screenshots\27-10-2017_16-16-50-validateOptionsForPurchase.png
+27-10-2017 16:16:50 ERROR - Validating presence of relevant fields for purchase -- Test failed
+
+27-10-2017 16:16:51 INFO  - Test suite has has finished
+27-10-2017 16:19:27 INFO  - Test suite has started
+27-10-2017 16:19:36 INFO  - Starting test: Validating presence of relevant fields for purchase 
+27-10-2017 16:19:38 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (19b40368d16decc32c96003b524672a3)] -> xpath: //*[@aria-label ='Purchase Price']]
+27-10-2017 16:19:38 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (19b40368d16decc32c96003b524672a3)] -> xpath: //*[@aria-label='Where is the property?']]
+27-10-2017 16:19:40 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (19b40368d16decc32c96003b524672a3)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+27-10-2017 16:19:40 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (19b40368d16decc32c96003b524672a3)] -> xpath: //*[@class='sb-advance-wrapper']]
+27-10-2017 16:19:41 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (19b40368d16decc32c96003b524672a3)] -> xpath: //*[@for ='first_time_home_buyer']]
+27-10-2017 16:19:41 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (19b40368d16decc32c96003b524672a3)] -> xpath: //*[@for ='military_service']]
+27-10-2017 16:19:41 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (19b40368d16decc32c96003b524672a3)] -> xpath: //*[@aria-label='Monthly HOA Fees']]
+27-10-2017 16:19:52 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+27-10-2017 16:19:52 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\ScenarioBuilder\src\test\resources\screenshots\27-10-2017_16-19-52-validateOptionsForPurchase.png
+27-10-2017 16:19:52 ERROR - Validating presence of relevant fields for purchase -- Test failed
+
+27-10-2017 16:19:53 INFO  - Test suite has has finished
+31-10-2017 11:30:14 INFO  - Starting test: Validating presence of relevant fields for purchase 
+31-10-2017 11:30:16 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (400b663000e02be25dda8ee3f96a891a)] -> xpath: //*[@aria-label ='Purchase Price']]
+31-10-2017 11:30:16 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (400b663000e02be25dda8ee3f96a891a)] -> xpath: //*[@aria-label='Where is the property?']]
+31-10-2017 11:30:17 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (400b663000e02be25dda8ee3f96a891a)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+31-10-2017 11:30:17 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (400b663000e02be25dda8ee3f96a891a)] -> xpath: //*[@class='sb-advance-wrapper']]
+31-10-2017 11:30:18 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (400b663000e02be25dda8ee3f96a891a)] -> xpath: //*[@for ='first_time_home_buyer']]
+31-10-2017 11:30:18 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (400b663000e02be25dda8ee3f96a891a)] -> xpath: //*[@for ='military_service']]
+31-10-2017 11:30:18 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (400b663000e02be25dda8ee3f96a891a)] -> xpath: //*[@aria-label='Monthly HOA Fees']]
