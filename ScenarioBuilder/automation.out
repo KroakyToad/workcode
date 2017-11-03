@@ -485,3 +485,79 @@ Session ID: 6c2cc20f-6aac-4a57-bc2d-cefd9cd2243e
 31-10-2017 11:30:18 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (400b663000e02be25dda8ee3f96a891a)] -> xpath: //*[@for ='first_time_home_buyer']]
 31-10-2017 11:30:18 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (400b663000e02be25dda8ee3f96a891a)] -> xpath: //*[@for ='military_service']]
 31-10-2017 11:30:18 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (400b663000e02be25dda8ee3f96a891a)] -> xpath: //*[@aria-label='Monthly HOA Fees']]
+03-11-2017 13:20:32 INFO  - Test suite has started
+03-11-2017 13:20:32 INFO  - Validating presence of relevant fields for purchase -- Test skipped
+
+03-11-2017 13:20:32 INFO  - Test suite has has finished
+03-11-2017 13:22:05 INFO  - Test suite has started
+03-11-2017 13:22:06 INFO  - Validating presence of relevant fields for purchase -- Test skipped
+
+03-11-2017 13:22:06 INFO  - Test suite has has finished
+03-11-2017 13:22:52 INFO  - Test suite has started
+03-11-2017 13:22:52 INFO  - Validating presence of relevant fields for purchase -- Test skipped
+
+03-11-2017 13:22:53 INFO  - Test suite has has finished
+03-11-2017 13:23:53 INFO  - Test suite has started
+03-11-2017 13:23:53 INFO  - Validating presence of relevant fields for purchase -- Test skipped
+
+03-11-2017 13:23:53 INFO  - Test suite has has finished
+03-11-2017 13:24:14 INFO  - Test suite has started
+03-11-2017 13:24:15 INFO  - Validating presence of relevant fields for purchase -- Test skipped
+
+03-11-2017 13:24:15 INFO  - Test suite has has finished
+03-11-2017 13:32:07 INFO  - Test suite has started
+03-11-2017 13:32:08 INFO  - Validating presence of relevant fields for purchase -- Test skipped
+
+03-11-2017 13:32:08 INFO  - Test suite has has finished
+03-11-2017 13:34:30 INFO  - Test suite has started
+03-11-2017 13:34:30 INFO  - Validating presence of relevant fields for purchase -- Test skipped
+
+03-11-2017 13:34:30 INFO  - Test suite has has finished
+03-11-2017 13:37:58 INFO  - Test suite has started
+03-11-2017 13:37:59 INFO  - Validating presence of relevant fields for purchase -- Test skipped
+
+03-11-2017 13:37:59 INFO  - Test suite has has finished
+03-11-2017 13:47:39 INFO  - Test suite has started
+03-11-2017 13:47:48 INFO  - Starting test: Validating presence of relevant fields for purchase 
+03-11-2017 13:47:49 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (a21c2dc2acef1610b831df3d38057b81)] -> xpath: //*[@aria-label ='Purchase Price']]
+03-11-2017 13:47:49 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (a21c2dc2acef1610b831df3d38057b81)] -> xpath: //*[@aria-label='Where is the property?']]
+03-11-2017 13:47:50 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (a21c2dc2acef1610b831df3d38057b81)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+03-11-2017 13:47:50 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (a21c2dc2acef1610b831df3d38057b81)] -> xpath: //*[@class='sb-advance-wrapper']]
+03-11-2017 13:47:50 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (a21c2dc2acef1610b831df3d38057b81)] -> xpath: //*[@for ='first_time_home_buyer']]
+03-11-2017 13:47:50 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (a21c2dc2acef1610b831df3d38057b81)] -> xpath: //*[@for ='military_service']]
+03-11-2017 13:47:51 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (a21c2dc2acef1610b831df3d38057b81)] -> xpath: //*[@aria-label='Monthly HOA Fees']]
+03-11-2017 13:48:01 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+03-11-2017 13:48:02 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\workcode\ScenarioBuilder\src\test\resources\screenshots\03-11-2017_13-48-01-validateOptionsForPurchase.png
+03-11-2017 13:48:02 ERROR - Validating presence of relevant fields for purchase -- Test failed
+
+03-11-2017 13:48:03 INFO  - Test suite has has finished
+03-11-2017 13:49:42 INFO  - Test suite has started
+03-11-2017 13:55:08 INFO  - Test suite has started
+03-11-2017 14:07:49 INFO  - Test suite has started
+03-11-2017 14:07:59 INFO  - Starting test: Validating presence of relevant fields for purchase 
+03-11-2017 14:08:00 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (6144a319fabdee56dda3f34747208b82)] -> xpath: //*[@aria-label ='Purchase Price']]
+03-11-2017 14:08:01 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (6144a319fabdee56dda3f34747208b82)] -> xpath: //*[@aria-label='Where is the property?']]
+03-11-2017 14:08:01 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (6144a319fabdee56dda3f34747208b82)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+03-11-2017 14:08:02 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (6144a319fabdee56dda3f34747208b82)] -> xpath: //*[@class='sb-advance-wrapper']]
+03-11-2017 14:08:02 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (6144a319fabdee56dda3f34747208b82)] -> xpath: //*[@for ='first_time_home_buyer']]
+03-11-2017 14:08:02 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (6144a319fabdee56dda3f34747208b82)] -> xpath: //*[@for ='military_service']]
+03-11-2017 14:08:02 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (6144a319fabdee56dda3f34747208b82)] -> xpath: //*[@aria-label='Monthly HOA Fees']]
+03-11-2017 14:08:13 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+03-11-2017 14:08:13 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\workcode\ScenarioBuilder\src\test\resources\screenshots\03-11-2017_14-08-13-validateOptionsForPurchase.png
+03-11-2017 14:08:13 ERROR - Validating presence of relevant fields for purchase -- Test failed
+
+03-11-2017 14:08:14 INFO  - Test suite has has finished
+03-11-2017 14:14:25 INFO  - Test suite has started
+03-11-2017 14:14:33 INFO  - Starting test: Validating presence of relevant fields for purchase 
+03-11-2017 14:14:35 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (27bdea659bc2593f29345baf36f41f78)] -> xpath: //*[@aria-label ='Purchase Price']]
+03-11-2017 14:14:35 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (27bdea659bc2593f29345baf36f41f78)] -> xpath: //*[@aria-label='Where is the property?']]
+03-11-2017 14:14:36 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (27bdea659bc2593f29345baf36f41f78)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+03-11-2017 14:14:36 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (27bdea659bc2593f29345baf36f41f78)] -> xpath: //*[@class='sb-advance-wrapper']]
+03-11-2017 14:14:36 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (27bdea659bc2593f29345baf36f41f78)] -> xpath: //*[@for ='first_time_home_buyer']]
+03-11-2017 14:14:36 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (27bdea659bc2593f29345baf36f41f78)] -> xpath: //*[@for ='military_service']]
+03-11-2017 14:14:37 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (27bdea659bc2593f29345baf36f41f78)] -> xpath: //*[@aria-label='Monthly HOA Fees']]
+03-11-2017 14:14:47 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+03-11-2017 14:14:48 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\workcode\ScenarioBuilder\src\test\resources\screenshots\03-11-2017_14-14-47-validateOptionsForPurchase.png
+03-11-2017 14:14:48 ERROR - Validating presence of relevant fields for purchase -- Test failed
+
+03-11-2017 14:14:48 INFO  - Test suite has has finished
