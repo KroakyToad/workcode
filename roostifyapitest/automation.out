@@ -64,3 +64,14 @@
 03-11-2017 12:28:52 INFO  - Testcase to retreive all accounts-- Test passed
 
 03-11-2017 12:28:57 INFO  - Test suite has has finished
+03-11-2017 14:18:46 INFO  - Test suite has started
+03-11-2017 14:18:46 INFO  - Starting test: Testcase to create and update a task
+03-11-2017 14:18:52 INFO  - Testcase to create and update a task-- Test passed
+
+03-11-2017 14:18:52 INFO  - Starting test: Testcase to display all tasks
+03-11-2017 14:18:54 INFO  - Testcase to display all tasks-- Test passed
+
+03-11-2017 14:18:54 INFO  - Starting test: Testcase to retreive all accounts
+03-11-2017 14:18:56 INFO  - Testcase to retreive all accounts-- Test passed
+
+03-11-2017 14:18:56 INFO  - Test suite has has finished
