@@ -4,7 +4,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 
-import com.kroakyhub.testfrog.base.BasePageObjectRepository;
+import com.infrrd.testfrog.base.BasePageObjectRepository;
 
 public class HomePagePageObject extends BasePageObjectRepository{
 
@@ -100,8 +100,7 @@ public class HomePagePageObject extends BasePageObjectRepository{
 
 	@FindBy(xpath = PMIXpath)
 	public WebElement PMIField;
-	
-	
+		
 	@FindBy(xpath = PrincipalInterestXpath)
 	public WebElement PrincipalInterest;
 

@@ -54,7 +54,7 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>com.kroakyhub</groupId>
+			<groupId>com.infrrd</groupId>
 			<artifactId>testfrogforapi</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>

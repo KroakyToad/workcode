@@ -561,3 +561,167 @@ Session ID: 6c2cc20f-6aac-4a57-bc2d-cefd9cd2243e
 03-11-2017 14:14:48 ERROR - Validating presence of relevant fields for purchase -- Test failed
 
 03-11-2017 14:14:48 INFO  - Test suite has has finished
+06-11-2017 16:02:24 INFO  - Test suite has started
+06-11-2017 16:02:24 INFO  - Validating presence of relevant fields for purchase -- Test skipped
+
+06-11-2017 16:02:24 INFO  - Test suite has has finished
+06-11-2017 16:05:27 INFO  - Test suite has started
+06-11-2017 16:05:27 INFO  - Validating presence of relevant fields for purchase -- Test skipped
+
+06-11-2017 16:05:27 INFO  - Test suite has has finished
+06-11-2017 16:07:15 INFO  - Test suite has started
+06-11-2017 16:07:15 INFO  - Validating presence of relevant fields for purchase -- Test skipped
+
+06-11-2017 16:07:15 INFO  - Test suite has has finished
+06-11-2017 16:07:34 INFO  - Test suite has started
+06-11-2017 16:07:37 INFO  - Validating presence of relevant fields for purchase -- Test skipped
+
+06-11-2017 16:07:37 INFO  - Test suite has has finished
+06-11-2017 16:40:29 INFO  - Test suite has started
+06-11-2017 16:40:42 INFO  - Starting test: Validating presence of relevant fields for purchase 
+06-11-2017 16:40:42 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (2ef6c11a743311585bc47a063163a0e4)] -> xpath: //*[@aria-label ='Purchase Price']]
+06-11-2017 16:40:43 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (2ef6c11a743311585bc47a063163a0e4)] -> xpath: //*[@aria-label='Where is the property?']]
+06-11-2017 16:40:43 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (2ef6c11a743311585bc47a063163a0e4)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+06-11-2017 16:40:44 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (2ef6c11a743311585bc47a063163a0e4)] -> xpath: //*[@class='sb-advance-wrapper']]
+06-11-2017 16:40:44 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (2ef6c11a743311585bc47a063163a0e4)] -> xpath: //*[@for ='first_time_home_buyer']]
+06-11-2017 16:40:44 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (2ef6c11a743311585bc47a063163a0e4)] -> xpath: //*[@for ='military_service']]
+06-11-2017 16:40:45 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (2ef6c11a743311585bc47a063163a0e4)] -> xpath: //*[@aria-label='Monthly HOA Fees']]
+06-11-2017 16:40:55 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+06-11-2017 16:40:56 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\workcode\ScenarioBuilder\src\test\resources\screenshots\06-11-2017_16-40-55-validateOptionsForPurchase.png
+06-11-2017 16:40:56 ERROR - Validating presence of relevant fields for purchase -- Test failed
+
+06-11-2017 16:40:56 INFO  - Test suite has has finished
+06-11-2017 16:49:56 INFO  - Test suite has started
+06-11-2017 16:50:24 INFO  - Starting test: Validating presence of relevant fields for purchase 
+06-11-2017 16:50:26 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (e04aac80900ad6504ca63ad4707c3aec)] -> xpath: //*[@aria-label ='Purchase Price']]
+06-11-2017 16:50:26 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (e04aac80900ad6504ca63ad4707c3aec)] -> xpath: //*[@aria-label='Where is the property?']]
+06-11-2017 16:50:27 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (e04aac80900ad6504ca63ad4707c3aec)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+06-11-2017 16:50:27 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (e04aac80900ad6504ca63ad4707c3aec)] -> xpath: //*[@class='sb-advance-wrapper']]
+06-11-2017 16:50:27 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (e04aac80900ad6504ca63ad4707c3aec)] -> xpath: //*[@for ='first_time_home_buyer']]
+06-11-2017 16:50:28 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (e04aac80900ad6504ca63ad4707c3aec)] -> xpath: //*[@for ='military_service']]
+06-11-2017 16:50:28 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (e04aac80900ad6504ca63ad4707c3aec)] -> xpath: //*[@aria-label='Monthly HOA Fees']]
+06-11-2017 16:50:38 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+06-11-2017 16:50:38 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\workcode\ScenarioBuilder/src/test/resources/screenshots/06-11-2017_16-50-38-validateOptionsForPurchase.png
+06-11-2017 16:50:38 ERROR - Validating presence of relevant fields for purchase -- Test failed
+
+06-11-2017 16:50:39 INFO  - Test suite has has finished
+06-11-2017 16:51:02 INFO  - Test suite has started
+06-11-2017 16:51:23 INFO  - Starting test: Validating presence of relevant fields for purchase 
+06-11-2017 16:51:25 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (8c08d2e1e5a6a9a83830895054bd8ba8)] -> xpath: //*[@aria-label ='Purchase Price']]
+06-11-2017 16:51:26 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (8c08d2e1e5a6a9a83830895054bd8ba8)] -> xpath: //*[@aria-label='Where is the property?']]
+06-11-2017 16:51:27 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (8c08d2e1e5a6a9a83830895054bd8ba8)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+06-11-2017 16:51:27 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (8c08d2e1e5a6a9a83830895054bd8ba8)] -> xpath: //*[@class='sb-advance-wrapper']]
+06-11-2017 16:51:27 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (8c08d2e1e5a6a9a83830895054bd8ba8)] -> xpath: //*[@for ='first_time_home_buyer']]
+06-11-2017 16:51:28 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (8c08d2e1e5a6a9a83830895054bd8ba8)] -> xpath: //*[@for ='military_service']]
+06-11-2017 16:51:28 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (8c08d2e1e5a6a9a83830895054bd8ba8)] -> xpath: //*[@aria-label='Monthly HOA Fees']]
+06-11-2017 16:51:38 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+06-11-2017 16:51:39 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\workcode\ScenarioBuilder/src/test/resources/screenshots/06-11-2017_16-51-38-validateOptionsForPurchase.png
+06-11-2017 16:51:39 ERROR - Validating presence of relevant fields for purchase -- Test failed
+
+06-11-2017 16:51:40 INFO  - Test suite has has finished
+07-11-2017 10:51:08 INFO  - Test suite has started
+07-11-2017 10:51:17 INFO  - Starting test: Validating Get My Options is not enabled if madatory data is not filled
+07-11-2017 10:52:00 INFO  - Test suite has started
+07-11-2017 10:52:08 INFO  - Starting test: Validating Get My Options is not enabled if madatory data is not filled
+07-11-2017 10:52:20 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+07-11-2017 10:52:20 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\workcode\ScenarioBuilder/src/test/resources/screenshots/07-11-2017_10-52-20-checkEnablingOfGetMyOptionsButton.png
+07-11-2017 10:52:20 ERROR - Validating Get My Options is not enabled if madatory data is not filled-- Test failed
+
+07-11-2017 10:52:21 INFO  - Starting test: Validating graph legends
+07-11-2017 10:52:22 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label ='Purchase Price']]
+07-11-2017 10:52:22 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']]
+07-11-2017 10:52:23 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']]
+07-11-2017 10:52:23 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']]
+07-11-2017 10:52:23 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']]
+07-11-2017 10:52:24 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']]
+07-11-2017 10:52:24 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']]
+07-11-2017 10:52:24 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']]
+07-11-2017 10:52:25 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+07-11-2017 10:52:25 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@class='sb-advance-wrapper']]
+07-11-2017 10:52:26 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@for ='first_time_home_buyer']]
+07-11-2017 10:52:26 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@for ='military_service']]
+07-11-2017 10:52:26 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Monthly HOA Fees']]
+07-11-2017 10:52:36 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+07-11-2017 10:52:37 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\workcode\ScenarioBuilder/src/test/resources/screenshots/07-11-2017_10-52-36-validateGraphLegends.png
+07-11-2017 10:52:37 ERROR - Validating graph legends-- Test failed
+
+07-11-2017 10:52:37 INFO  - Starting test: Validating presence of relevant fields for purchase 
+07-11-2017 10:52:39 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label ='Purchase Price']]
+07-11-2017 10:52:39 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']]
+07-11-2017 10:52:40 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+07-11-2017 10:52:40 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@class='sb-advance-wrapper']]
+07-11-2017 10:52:41 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@for ='first_time_home_buyer']]
+07-11-2017 10:52:41 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@for ='military_service']]
+07-11-2017 10:52:41 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Monthly HOA Fees']]
+07-11-2017 10:52:51 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+07-11-2017 10:52:52 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\workcode\ScenarioBuilder/src/test/resources/screenshots/07-11-2017_10-52-51-validateOptionsForPurchase.png
+07-11-2017 10:52:52 ERROR - Validating presence of relevant fields for purchase -- Test failed
+
+07-11-2017 10:52:52 INFO  - Starting test: Validating presence of relevant fields for refinance 
+07-11-2017 10:52:53 INFO  - Clicked on element: [[[[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Purpose of Loan']]] -> xpath: .//option[@value = "refi"]]
+07-11-2017 10:52:54 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Current Mortgage Balance']]
+07-11-2017 10:52:54 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Current Property Value']]
+07-11-2017 10:52:54 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']]
+07-11-2017 10:52:55 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+07-11-2017 10:52:55 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@class='sb-advance-wrapper']]
+07-11-2017 10:52:56 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@for ='military_service']]
+07-11-2017 10:52:56 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\workcode\ScenarioBuilder/src/test/resources/screenshots/07-11-2017_10-52-56-validateOptionsForRefinance.png
+07-11-2017 10:52:56 INFO  - Validating presence of relevant fields for refinance -- Test passed
+
+07-11-2017 10:52:57 INFO  - Starting test: Validating presence of relevant fields for refinance cashout
+07-11-2017 10:52:58 INFO  - Clicked on element: [[[[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Purpose of Loan']]] -> xpath: .//option[@value = "reficashout"]]
+07-11-2017 10:52:58 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Current Mortgage Balance']]
+07-11-2017 10:52:58 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Desired Cashout Amount']]
+07-11-2017 10:52:58 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']]
+07-11-2017 10:52:59 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+07-11-2017 10:52:59 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@class='sb-advance-wrapper']]
+07-11-2017 10:52:59 INFO  - Clicked on element: [[[[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label ='Property Type']]] -> xpath: .//option[@value = "Condo"]]
+07-11-2017 10:53:00 INFO  - Clicked on element: [[[[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Property Use']]] -> xpath: .//option[@value = "investment"]]
+07-11-2017 10:53:00 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@for ='military_service']]
+07-11-2017 10:53:00 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Property Tax']]
+07-11-2017 10:53:00 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Monthly Homeowner’s Insurance']]
+07-11-2017 10:53:01 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Current Property Value']]
+07-11-2017 10:53:11 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+07-11-2017 10:53:11 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\workcode\ScenarioBuilder/src/test/resources/screenshots/07-11-2017_10-53-11-validateOptionsForRefinanceCashout.png
+07-11-2017 10:53:11 ERROR - Validating presence of relevant fields for refinance cashout-- Test failed
+
+07-11-2017 10:53:12 INFO  - Starting test: Validating other optimizations section
+07-11-2017 10:53:13 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label ='Purchase Price']]
+07-11-2017 10:53:13 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']]
+07-11-2017 10:53:14 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+07-11-2017 10:53:14 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@class='sb-advance-wrapper']]
+07-11-2017 10:53:15 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@for ='first_time_home_buyer']]
+07-11-2017 10:53:15 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@for ='military_service']]
+07-11-2017 10:53:15 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Monthly HOA Fees']]
+07-11-2017 10:53:25 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+07-11-2017 10:53:26 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\workcode\ScenarioBuilder/src/test/resources/screenshots/07-11-2017_10-53-25-validateOtherOptimizations.png
+07-11-2017 10:53:26 ERROR - Validating other optimizations section-- Test failed
+
+07-11-2017 10:53:26 INFO  - Starting test: Validating Zip code error block
+07-11-2017 10:53:28 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']]
+07-11-2017 10:53:29 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\workcode\ScenarioBuilder/src/test/resources/screenshots/07-11-2017_10-53-28-validateZipCodeError.png
+07-11-2017 10:53:29 INFO  - Validating Zip code error block-- Test passed
+
+07-11-2017 10:53:29 INFO  - Starting test: Validate zip code look up container
+07-11-2017 10:53:30 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']]
+07-11-2017 10:53:30 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']]
+07-11-2017 10:53:30 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']]
+07-11-2017 10:53:31 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']]
+07-11-2017 10:53:31 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']]
+07-11-2017 10:53:31 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']]
+07-11-2017 10:53:32 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\workcode\ScenarioBuilder/src/test/resources/screenshots/07-11-2017_10-53-31-validateZipCodeLookUp.png
+07-11-2017 10:53:32 INFO  - Validate zip code look up container-- Test passed
+
+07-11-2017 10:53:32 INFO  - Starting test: Validating Lead form upon clicking get this loan button 
+07-11-2017 10:53:33 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label ='Purchase Price']]
+07-11-2017 10:53:33 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']]
+07-11-2017 10:53:34 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Where is the property?']/following-sibling::div[@class='sb-zipcode-wrapper']//*[@role='option'][1]//li]
+07-11-2017 10:53:34 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@class='sb-advance-wrapper']]
+07-11-2017 10:53:35 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@for ='first_time_home_buyer']]
+07-11-2017 10:53:35 INFO  - Clicked on element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@for ='military_service']]
+07-11-2017 10:53:35 INFO  - Changed value of element: [[ChromeDriver: chrome on XP (bf359784ed78df352be4837fb2f6a304)] -> xpath: //*[@aria-label='Monthly HOA Fees']]
+07-11-2017 10:53:46 INFO  - Not able to locate element By.xpath: //button[contains(text(),'Get My options')] due to org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //button[contains(text(),'Get My options')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+07-11-2017 10:53:46 INFO  - Capturing image: C:\Users\E6430\Desktop\GitHub\workcode\ScenarioBuilder/src/test/resources/screenshots/07-11-2017_10-53-46-validatingLeadForm.png
+07-11-2017 10:53:46 ERROR - Validating Lead form upon clicking get this loan button -- Test failed
+
+07-11-2017 10:53:47 INFO  - Test suite has has finished

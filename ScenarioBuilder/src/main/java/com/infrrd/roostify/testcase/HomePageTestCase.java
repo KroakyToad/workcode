@@ -7,10 +7,8 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-
 import com.infrrd.roostify.pagelibrary.HomePagePageLibrary;
-import com.kroakyhub.testfrog.base.BaseTest;
-
+import com.infrrd.testfrog.base.BaseTest;
 
 
 public class HomePageTestCase extends BaseTest {

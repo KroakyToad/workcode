@@ -1,6 +1,6 @@
 package com.infrrd.roostifyapitest;
 
-import com.kroakyhub.testfrog.runner.TestFrog;
+import com.infrrd.testfrogforapi.runner.TestFrog;
 
 /**
  * Hello world!

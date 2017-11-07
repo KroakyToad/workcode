@@ -1,6 +1,6 @@
 package com.infrrd.roostify.runner;
 
-import com.kroakyhub.testfrog.runner.TestFrog;
+import com.infrrd.testfrog.runner.TestFrog;
 
 public class App {
 	public static void main(String[] args){
